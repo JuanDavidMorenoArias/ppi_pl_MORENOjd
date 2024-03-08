@@ -4,10 +4,10 @@ una coleccion de videos en Youtube enseñando conceptos basicos de Python para p
 
 ## Objetivo del Proyecto
 Este proyecto tiene como objetivo proporcionar recursos educativos para principiantes que deseen aprender programación en Python. Los videos cubren temas básicos como:
-Variables
-condicionales
-Bucles
-Funciones 
+Variables,
+condicionales,
+Bucles,
+Funciones,
 y mucho mas!!
 
 ## Contenido del Repositorio
