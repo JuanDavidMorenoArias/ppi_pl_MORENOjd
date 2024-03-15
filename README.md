@@ -11,7 +11,7 @@ funciones,
 y mucho mas!!
 
 ## Contenido del Repositorio
-- `videos/`: 
+- `videos/`: https://www.youtube.com/playlist?list=PLKsqacnoEUfjT3eO4fsLCz1oaHIS04uPl
 - `code_samples/`: 
 
 ## Instrucciones de Uso
