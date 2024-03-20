@@ -1,4 +1,3 @@
-# ppi_pl_MORENOjd
 # Python para Rookies
 Una coleccion de videos en Youtube enseñando conceptos basicos de Python para principiantes
 
