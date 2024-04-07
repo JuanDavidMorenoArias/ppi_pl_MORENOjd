@@ -1,0 +1,26 @@
+Link: https://www.youtube.com/watch?v=KjZcnDq9SDk
+
+En este episodio, exploramos el concepto de entornos virtuales y su importancia en el desarrollo de proyectos en Python. Explico qué son los entornos virtuales, para qué sirven y por qué son fundamentales en el mundo de la programación, especialmente para la gestión de dependencias y la separación de entornos de trabajo.
+
+Además, realizo una demostración práctica donde enseño cómo crear, activar y desactivar entornos virtuales en Python. También explico cómo cambiar entre diferentes intérpretes dentro de nuestro editor de código, lo que permite trabajar en diferentes proyectos con diferentes configuraciones de entorno.
+
+Recursos y Material del Video:
+
+- Documentación oficial de Python: https://docs.python.org/3/
+Un recurso fundamental para comprender la estructura y funcionalidades del lenguaje.
+
+- Tutorial de W3Schools sobre Python: https://www.w3schools.com/python/
+Una excelente fuente de aprendizaje práctico y ejemplos interactivos.
+
+- Resolución de problemas en Stack Overflow: https://stackoverflow.com/
+Una comunidad invaluable para resolver dudas y encontrar soluciones a desafíos de programación.
+
+- Plataforma de Inteligencia Artificial de OpenAI: https://chat.openai.com/
+ Explora el potencial de la IA y sus aplicaciones en el ámbito de la programación.
+
+Nota Importante:
+Este video forma parte de un proyecto desarrollado en el contexto de la materia "Programación para Ingeniería" en la Universidad Nacional de Colombia.
+
+Te invito a suscribirte para acceder a más contenido emocionante sobre Python y programación.
+
+¡Espero que disfrutes de esta serie de videos y que te sean de gran utilidad en tu camino de aprendizaje en el mundo de la programación!

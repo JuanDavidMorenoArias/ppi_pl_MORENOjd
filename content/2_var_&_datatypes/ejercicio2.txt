@@ -1,0 +1,16 @@
+Ejercicio 1: Definición de Variables
+
+Descripción:
+Define dos variables llamadas 'nombre' y 'edad' con tus datos y muestra un mensaje que diga "Hola, [nombre], tienes [edad] años."
+
+Ejercicio 2: Cambio de Tipo de Variable
+
+Descripción:
+Define una variable llamada 'numero_entero' con un número entero y otra llamada 'numero_flotante' con un número flotante. Luego, convierte 'numero_entero' a flotante y 'numero_flotante' a entero, y muestra ambos resultados.
+
+Ejercicio 3: Uso de Print
+
+Descripción:
+Muestra un mensaje que diga "Python es divertido!" en una sola línea, usando tres instrucciones print separadas. (usando end=" ")
+
+El codigo se encuentra en el archivo "ex2.py"

@@ -1,0 +1,19 @@
+Ejercicio : Operadores en Python
+
+Descripción:
+Escribe un programa en Python que realice las siguientes operaciones utilizando variables, operadores y la función print:
+
+1. Define dos variables llamadas 'numero1' y 'numero2' y asígnales valores enteros de tu elección.
+2. Calcula la suma de 'numero1' y 'numero2' y almacena el resultado en una nueva variable llamada 'suma'.
+3. Calcula la resta de 'numero1' y 'numero2' y almacena el resultado en una nueva variable llamada 'resta'.
+4. Calcula el producto de 'numero1' y 'numero2' y almacena el resultado en una nueva variable llamada 'producto'.
+5. Calcula la división de 'numero1' entre 'numero2' y almacena el resultado en una nueva variable llamada 'division'.
+6. Imprime los resultados de las operaciones de suma, resta, producto y división, junto con un mensaje descriptivo para cada uno.
+
+Recuerda:
+- Utiliza la función print para mostrar los resultados de cada operación.
+- No olvides asignar valores iniciales a 'numero1' y 'numero2' antes de realizar las operaciones.
+- Asegúrate de que el programa pueda manejar diferentes valores para 'numero1' y 'numero2', incluso si son negativos o decimales.
+- Comprueba que la división no genere un error cuando 'numero2' sea igual a cero.
+
+¡Escribe tu código a continuación!

@@ -1,0 +1,17 @@
+Título: Ejercicio sobre Condicionales en Python
+
+Descripción:
+Escribe un programa en Python que solicite al usuario ingresar dos números enteros y luego determine si el primer número es mayor, menor o igual al segundo número. El programa debe imprimir un mensaje que indique el resultado de la comparación.
+
+Instrucciones:
+1. Solicita al usuario que ingrese el primer número y almacénalo en una variable llamada "numero1".
+2. Solicita al usuario que ingrese el segundo número y almacénalo en una variable llamada "numero2".
+3. Utiliza una estructura condicional para comparar los valores de "numero1" y "numero2". 
+   - Si "numero1" es mayor que "numero2", imprime un mensaje indicando que "numero1" es mayor que "numero2".
+   - Si "numero1" es menor que "numero2", imprime un mensaje indicando que "numero1" es menor que "numero2".
+   - Si "numero1" es igual a "numero2", imprime un mensaje indicando que ambos números son iguales.
+4. Ejecuta el programa y verifica que funcione correctamente ingresando diferentes valores para "numero1" y "numero2".
+
+¡Escribe tu código a continuación!
+
+Escribe tu codigo en el archivo "ex5.py"

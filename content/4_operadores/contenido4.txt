@@ -1,0 +1,26 @@
+Link: https://www.youtube.com/watch?v=vqOUlpF2JCM
+
+En este episodio, nos sumergimos en el fascinante mundo de los operadores en Python, una herramienta fundamental para escribir cualquier programa. Aprenderemos sobre los diferentes tipos de operadores, incluyendo aritméticos, relacionales, lógicos, de asignación, de pertenencia e identidad, y exploraremos cómo usarlos en la práctica.
+
+Durante el video, definiremos y explicaremos brevemente qué son los operadores y cada uno de sus tipos. Luego, realizaremos una práctica guiada donde exploraremos cómo funciona cada tipo de operador, analizaremos su estructura y discutiremos el tipo de dato que retorna.
+
+Recursos y Material del Video:
+
+- Documentación oficial de Python: https://docs.python.org/3/
+Un recurso fundamental para comprender la estructura y funcionalidades del lenguaje.
+
+- Tutorial de W3Schools sobre Python: https://www.w3schools.com/python/
+Una excelente fuente de aprendizaje práctico y ejemplos interactivos.
+
+- Resolución de problemas en Stack Overflow: https://stackoverflow.com/
+Una comunidad invaluable para resolver dudas y encontrar soluciones a desafíos de programación.
+
+- Plataforma de Inteligencia Artificial de OpenAI: https://chat.openai.com/
+ Explora el potencial de la IA y sus aplicaciones en el ámbito de la programación.
+
+Nota Importante:
+Este video forma parte de un proyecto desarrollado en el contexto de la materia "Programación para Ingeniería" en la Universidad Nacional de Colombia.
+
+Te invito a suscribirte para acceder a más contenido emocionante sobre Python y programación.
+
+¡Espero que disfrutes de esta serie de videos y que te sean de gran utilidad en tu camino de aprendizaje en el mundo de la programación!

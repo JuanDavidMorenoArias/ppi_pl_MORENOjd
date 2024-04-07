@@ -1,0 +1,17 @@
+Ejercicio 1:
+
+1. Abre Visual Studio Code.
+
+2. Crea un nuevo archivo con extensión ".py" (por ejemplo, "saludo.py").
+
+3. Copia y pega el código proporcionado en el archivo "ex1.py".
+
+4. Guarda el archivo.
+
+5. Abre una terminal en Visual Studio Code.
+
+6. Ejecuta el archivo Python escribiendo python nombre_del_archivo.py en la terminal y presionando Enter, o bien puedes ejecutar el archivo danco click a "ejecutar" en la barra superior de VSCode.
+
+7. Sigue las instrucciones en la terminal para ingresar tu nombre cuando se solicite y observa el saludo personalizado que aparecerá.
+
+Este ejercicio básico te permitirá familiarizarte con la sintaxis de Python y practicar la entrada y salida de datos en la consola.

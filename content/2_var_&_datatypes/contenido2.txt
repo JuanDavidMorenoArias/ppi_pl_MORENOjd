@@ -1,0 +1,27 @@
+Link: https://www.youtube.com/watch?v=qfJhQOyn3m8
+
+En este episodio, nos sumergimos en el mundo de Python utilizando Visual Studio Code como nuestro entorno de desarrollo preferido. Explico cómo abrir archivos con extensión .py en Visual Studio Code, así como cómo ejecutar y guardar nuestros programas. Además, introduzco conceptos básicos de Python, como variables y tipos de datos, y comienzo a explorar su sintaxis fundamental.
+
+Durante el video, nos enfocamos en comprender qué son las variables y cómo se utilizan para almacenar datos en Python. También exploramos los tipos de datos más comunes, como enteros, flotantes y cadenas de texto, y aprendemos cómo trabajar con ellos en nuestros programas.
+
+Recursos y Material del Video:
+
+- Documentación oficial de Python: https://docs.python.org/3/
+Un recurso fundamental para comprender la estructura y funcionalidades del lenguaje.
+
+- Tutorial de W3Schools sobre Python: https://www.w3schools.com/python/
+Una excelente fuente de aprendizaje práctico y ejemplos interactivos.
+
+- Resolución de problemas en Stack Overflow: https://stackoverflow.com/
+Una comunidad invaluable para resolver dudas y encontrar soluciones a desafíos de programación.
+
+- Plataforma de Inteligencia Artificial de OpenAI: https://chat.openai.com/
+ Explora el potencial de la IA y sus aplicaciones en el ámbito de la programación.
+
+
+Nota Importante:
+Este video forma parte de un proyecto desarrollado en el contexto de la materia "Programación para Ingeniería" en la Universidad Nacional de Colombia.
+
+Te invito a suscribirte para acceder a más contenido emocionante sobre Python y programación.
+
+¡Espero que disfrutes de esta serie de videos y que te sean de gran utilidad en tu camino de aprendizaje en el mundo de la programación!

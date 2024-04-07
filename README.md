@@ -11,7 +11,7 @@ y mucho mas!!
 
 ## Contenido del Repositorio
 - `videos/`: https://www.youtube.com/playlist?list=PLKsqacnoEUfjT3eO4fsLCz1oaHIS04uPl
-- `code_samples/`: 
+- `code_samples/`: Ejercicios y codigo se encuentran en la carpeta de cada video.
 
 ## Instrucciones de Uso
 - Clone este repositorio usando `git clone`.

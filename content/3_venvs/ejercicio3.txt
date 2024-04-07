@@ -1,0 +1,15 @@
+Ejercicio: Creación y Activación de Entornos Virtuales en Python
+
+Descripción:
+Este ejercicio te guiará a través de los pasos para crear y activar un entorno virtual en Python.
+
+Instrucciones:
+1. Abre tu terminal o línea de comandos.
+2. Navega hasta el directorio donde deseas crear el entorno virtual.
+3. Ejecuta el siguiente comando para crear el entorno virtual:
+   python -m venv mi_entorno_virtual
+4. Para activar el entorno virtual en Windows, ejecuta:
+   mi_entorno_virtual\Scripts\activate
+   Para activar en macOS o Linux, ejecuta:
+   source mi_entorno_virtual/bin/activate
+5. Verifica que el entorno virtual esté activado mostrando el nombre del entorno virtual en la línea de comandos.
